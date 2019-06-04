@@ -1,3 +1,5 @@
+# Autodetecting setup.py script for building the Python extensions
+
 class House:
     def __init__(self):
       self.data =[
